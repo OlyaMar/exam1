@@ -1,0 +1,15 @@
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/bin/Debug/net6.0/Ex001
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/bin/Debug/net6.0/Ex001.deps.json
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/bin/Debug/net6.0/Ex001.runtimeconfig.json
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/bin/Debug/net6.0/Ex001.dll
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/bin/Debug/net6.0/Ex001.pdb
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/obj/Debug/net6.0/Ex001.csproj.AssemblyReference.cache
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/obj/Debug/net6.0/Ex001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/obj/Debug/net6.0/Ex001.AssemblyInfoInputs.cache
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/obj/Debug/net6.0/Ex001.AssemblyInfo.cs
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/obj/Debug/net6.0/Ex001.csproj.CoreCompileInputs.cache
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/obj/Debug/net6.0/Ex001.dll
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/obj/Debug/net6.0/refint/Ex001.dll
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/obj/Debug/net6.0/Ex001.pdb
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/obj/Debug/net6.0/Ex001.genruntimeconfig.cache
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/newexamples/examples/Ex001/obj/Debug/net6.0/ref/Ex001.dll
